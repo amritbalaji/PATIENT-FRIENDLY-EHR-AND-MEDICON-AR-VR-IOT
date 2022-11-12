@@ -13,3 +13,5 @@ Login Details
 Login Details for admin : admin/Test@12345
 Login Details for Patient: johndoe12@test.com/Test@123
 Login Details for Doctor: anujk123@test.com/Test@123
+
+THE MEDICON.INO IS THE HARDWARE CODING DONE FOR THE MEDICON DEVICE TO SENSE THE HEALTH RECORD THROUGH VARIOUS SENSORS AND GIVE THE DESIRED OUTPUT.
